@@ -1,0 +1,114 @@
+body{
+	margin: auto;
+	text-align: center;
+	font-family: arial,sans-serif;
+	color: #757575;
+}
+
+#header{
+	text-align: right;
+	margin-top: 15px;
+}
+
+#gmail, #image, #icone, #connexion{
+	display: inline-block;
+	vertical-align: middle;
+	font-size: 13px;
+}
+
+#gmail{
+	margin-right: 10px;
+}
+
+#icone{
+	width: 45px;
+	margin-left: -12px;
+	margin-right: 9px;
+	margin-top: 3px;
+}
+
+#connexion{
+	background-color: #4285f4;
+	margin-right: 30px;
+	color: #fff;
+	border: 1px solid #4285f4;
+	font-weight: bold;
+	line-height: 28px;
+    padding: 0 12px;
+    border-radius: 2px;
+    font-size: 13px;
+
+}
+
+#centre{
+	padding-top: 10%;
+}
+
+.search{
+	margin: 11px 4px;
+	padding: 0 16px;
+	font-weight: bold;
+	font-size: 13px;
+	border-radius: 2px;
+	border: 1px solid #f2f2f2;
+	background-color: #f2f2f2;
+	height: 36px;
+	line-height: 27px;
+	color: #757575;
+}
+
+
+#recherche{
+	line-height: 34px;
+    height: 34px !important;
+    width: 500px;
+}
+
+#micro{
+	margin-left: -60px;
+	margin-top: 5px;
+}
+
+#recherche, #micro{
+	display: inline-block;
+	vertical-align: middle;
+}
+
+#footer{
+	position: absolute; 
+	bottom: 0;
+	position: fixed;
+	background-color: rgb(242,242,242);
+	width: 100%;
+	text-align: left;
+	line-height: 40px;
+	height: auto;
+	font-size: 13px;
+}
+
+#footer1, #footer2{
+	display: inline;
+}
+
+#footer1{
+	float: left;
+}
+
+#footer2{
+	margin-right: 30px;
+	float: right;
+}
+
+#footer1>p{
+	display: inline;
+	margin-left: 30px;
+}
+
+#footer2>p{
+	display: inline;
+	margin-left: 30px;
+}
+
+#confidentialite{
+	padding-left: 200px;
+}
